@@ -1,0 +1,50 @@
+.navbar{
+    background-color: #3b5d50;
+    color: white;
+}
+.navbar li a{
+    color: white;
+}
+.main2{
+    background-color: #3b5d50;
+}
+h1{
+    color: grey ;
+    font-size: larger;
+}
+button{
+    border-radius: 70%;
+}
+p{
+    color: black;   
+}
+.part2{
+    display: flex;
+}
+.section3 img{
+    height: 500px;
+    width: 500px;
+}
+.section1 img :hover{
+    border: solid gray;
+    background-color: gray;
+}
+.page3{
+    background-color: rgb(203, 201, 201);
+    margin-top:100px;
+    margin-bottom:100px;
+}
+.footer{
+    background-color: rgb(156, 173, 160);
+}
+.list{
+    list-style: none;
+}
+.footer ul{
+    list-style: none;
+}
+
+.footer ul a{
+    color: rgb(13, 72, 88);
+    text-decoration: none;
+}
